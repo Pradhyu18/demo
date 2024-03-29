@@ -1,2 +1,2 @@
 #demo
-xvd fmhf
+print("hello")
